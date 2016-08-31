@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. Dustin Applegate
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+2. I am interested in data science for the challenges & opportunities that it presents me in this ever evolving digital landscape. It is a direction I wish to continue to expand my career in, and an area of study that energizes me.
+3. I have a strong background in SQL, a moderate level of experience with SAS, and an introduction to R from the Foundations DS course. Other than R, my knowledge has been developed through self study and (more often than not) trial & error. I utilize SQL on a weekly basis, but my time in SAS has decreased drastically over the years.
+4.  I feel I have just enough statistics experience to make myself dangerous. I have some background in descriptive statistics, decision trees, and regression in a professional environment. I took some introductory courses for a previous masters program and the DS 700 course.
+5.  Outside of the foundations course, I do not have any further experience with R. I am excited to begin adding to that knowledge as well as learning Python.
+6.  I’m hoping to gain a better understanding and knowledge of how to utilize the two programming languages in my day to day work. Knowing when & where to apply one over the other will be valuable as well as the limitations of the two solutions. 
+7.  Nothing at this time.
